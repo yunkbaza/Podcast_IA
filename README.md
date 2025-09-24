@@ -49,6 +49,6 @@ podcast-calice-dos-dados/
 ## ✨ Autor  
 Allan Baeza – Desenvolvedor em formação, apaixonado por tecnologia, IA e criação de conteúdo digital.  
 
-📎 LinkedIn: [linkedin.com/in/allanbaeza](https://linkedin.com/in/allanbaeza)  
+📎 LinkedIn: [linkedin.com/in/allanbaeza]([https://linkedin.com/in/allanbaeza](https://www.linkedin.com/in/allan-gabriel-baeza-a281b1233/))  
 📎 GitHub: [github.com/yunkbaza](https://github.com/yunkbaza)  
 
