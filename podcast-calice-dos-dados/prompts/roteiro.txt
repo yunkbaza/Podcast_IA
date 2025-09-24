@@ -1,0 +1,21 @@
+🎙️ Roteiro – Episódio 1
+
+Podcast: O Cálice dos Dados – Segredos escondidos da Inteligência Artificial
+Apresentador: Allan
+
+Texto:
+
+E aí, pessoal! Sejam muito bem-vindos ao Cálice dos Dados, o lugar onde a gente descobre os segredos mais escondidos da Inteligência Artificial. 
+Eu sou o Allan e hoje a nossa jornada é rápida, mas cheia de magia tecnológica! Já pensou quais são as melhores IAs para cada tipo de tarefa? 
+Então segura firme, porque eu vou te mostrar que cada IA tem um poder especial, quase como se fossem artefatos mágicos em um mundo digital.
+Pra começar, vamos falar de texto. Quando o assunto é escrever, responder perguntas ou até dar aquela força nos estudos, o ChatGPT é praticamente 
+uma varinha mágica, super versátil e acessível. Mas ele não está sozinho: o Claude, da Anthropic, manda muito bem quando o desafio é lidar com textos longos
+e contextos mais complexos. É como se o ChatGPT fosse o mago rápido e criativo, enquanto o Claude é o sábio que gosta de pensar cada detalhe com calma. 
+Duas magias diferentes, mas igualmente poderosas.
+Agora, se a sua missão é criar imagens, aí entra outro duelo mágico. 
+O MidJourney é perfeito pra quem busca ilustrações super realistas e cheias de detalhes, quase como pinturas digitais vivas. 
+Já o Stable Diffusion é o alquimista: ele permite personalizar, treinar modelos e criar imagens totalmente no seu estilo. 
+Então, quando o assunto é imagem, não existe certo ou errado: depende se você quer velocidade e impacto, ou controle total da criação.
+E assim a gente termina mais um mergulho no Cálice dos Dados. A grande lição é que não existe uma Inteligência Artificial perfeita para tudo,
+mas sim a ideal para cada desafio. Então, escolha bem a sua ferramenta mágica e explore o máximo dela! Eu sou o Allan e esse foi o Cálice dos Dados dessa semana. 
+Até a próxima, galera!
